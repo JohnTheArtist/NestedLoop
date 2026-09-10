@@ -21,7 +21,7 @@ public static void main(String[] args){
 
     for(int j =1, u = 5; j <= 5; j++){
 
-        for(int i =0; i <= u; i++){
+        for(int i =1; i <= u; i++){
             System.out.print(i + " ");
 
         }
